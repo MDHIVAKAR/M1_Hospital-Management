@@ -8,6 +8,7 @@ struct ad
     int cabin,phone,age;
 } x[100];
 int n,i,j=0,a=0,sum=0,g,flag,num;
+
 void read();
 void add();
 void view();
@@ -21,9 +22,7 @@ int main()
     int c,i,q;
     printf("Hospital Management System\n");
     int m,n;
-
     
-   
     while(c!=6)
     {
 
