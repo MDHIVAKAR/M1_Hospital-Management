@@ -1,5 +1,5 @@
 ##  Certificates
-*  Solo learn certificate
+*  Sololearn
 *  Linux NDG
 *  First day Github - Screenshot
-*  Hackerearth- Screenshot
+*  Hackerearth - Screenshot
