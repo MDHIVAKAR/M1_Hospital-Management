@@ -363,7 +363,6 @@ void del()
         else if(h==2)
         {
             strcpy(x[f].name,"Cleared");
-
         }
         else if(h==3)
         {
@@ -381,7 +380,6 @@ void del()
         {
             x[f].phone=0;
         }
-
     }
     else
         printf("\n\nInvalid Serial number\n");
