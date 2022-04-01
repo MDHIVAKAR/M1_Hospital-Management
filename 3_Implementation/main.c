@@ -8,7 +8,6 @@ struct ad
     int cabin,phone,age;
 } x[100];
 int n,i,j=0,a=0,sum=0,g,flag,num;
-
 void read();
 void add();
 void view();
@@ -21,7 +20,7 @@ int main()
     read();
     int c,i,q;
     printf("Hospital Management System\n");
-    int m,n;
+    int m,n,c;
     
     while(c!=6)
     {
@@ -386,7 +385,6 @@ void del()
     }
     else
         printf("\n\nInvalid Serial number\n");
-
 }
 void read()
 {
