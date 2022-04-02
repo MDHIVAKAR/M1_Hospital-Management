@@ -28,8 +28,10 @@ Opportunities
 Threats
 *   Less secure as anyone can use the software.
 *   Compromising the software might lead to loss of data.
-# High level Requirements
-   Any employee of the hospital may access the details of the patient.
-   The details can also be deleted when patient is no longer suffering from his problems.
-# Low level Requirements
-   If the details are added successfully, it asks if you want to add more details or not.
+
+High level Requirements
+*   Any employee of the hospital may access the details of the patient.
+*   The details can also be deleted when patient is no longer suffering from his problems.
+
+Low level Requirements
+*   If the details are added successfully, it asks if you want to add more details or not.
