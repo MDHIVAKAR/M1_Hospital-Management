@@ -18,7 +18,7 @@ void show();
 int main()
 {
     read();
-    int c,i,q;
+    int c;
     printf("Hospital Management System\n");
     while(c!=6)
     {
