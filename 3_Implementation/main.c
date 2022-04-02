@@ -21,10 +21,8 @@ int main()
     int c,i,q;
     printf("Hospital Management System\n");
     int m,n;
-    
     while(int c!=6)
     {
-
         printf("**Enter your choice**\n\n1. Add Information\n2. View Information\n3. Search\n4. Edit Information\n5. Delete Information\n6. Exit\n\nOption=");
         scanf("%d",&c);
         fflush(stdin);
@@ -73,7 +71,6 @@ void add()
     printf("How many entry do you want to add=\n");
     scanf("%d",&n);
     sum=n+num;
-
     for(i=num,j=0; i<sum; i++)
     {
         printf("\n");
@@ -99,7 +96,6 @@ void add()
         num++;
     }
 }
-
 void view()
 {
     for(i=0; i<num; i++)
@@ -134,7 +130,6 @@ void edit()
                 fflush(stdin);
                 printf("Enter the new name=");
                 gets(x[p].name);
-
             }
             else if(q==2)
             {
@@ -148,14 +143,12 @@ void edit()
                 printf("Enter the new Age=");
                 scanf("%d",&x[p].age);
             }
-
             else if(q==4)
             {
                 fflush(stdin);
                 printf("Enter the new Cabin no=");
                 scanf("%d",&x[p].cabin);
             }
-
             else if(q==5)
             {
                 fflush(stdin);
@@ -223,9 +216,6 @@ void search()
         }
         if(f==1)
             printf("\nNot Found\n");
-
-
-
     }
     else if(h==3)
     {
@@ -248,13 +238,9 @@ void search()
                 printf("\n\n");
                 f=0;
             }
-
-
         }
         if(f==1)
             printf("\nNot Found\n");
-
-
     }
     else if(h==4)
     {
@@ -275,11 +261,9 @@ void search()
                 printf("\n\n");
                 f=0;
             }
-
         }
         if(f==1)
             printf("Not Found\n\n");
-
     }
     else if(h==5)
     {
@@ -300,7 +284,6 @@ void search()
                 printf("\n\n");
                 f=0;
             }
-
         }
         if(f==1)
             printf("Not Found");
@@ -324,18 +307,12 @@ void search()
                 printf("\n\n");
                 f=0;
             }
-
         }
         if(f==1)
             printf("Not Found\n\n");
-
     }
     else
         printf("\n\nInvalid input\n\n");
-
-
-
-
 }
 void del()
 {
