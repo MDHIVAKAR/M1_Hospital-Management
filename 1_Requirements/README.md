@@ -1,4 +1,4 @@
-# Features
+## Features
 *   Add Patient Records
 *   View Patient Records
 *   Search Patient Records
@@ -13,14 +13,18 @@
 *   When- It can be used as long as the user have a good working system and continuous power supply.
 *   How- It is composed of a very simple and guiding interface that allows the user to understand and make the best use of the software.
 # swot analysis
+
 Strength
 *   Hospital employees can use this software to manage patient details .
 *   It takes less time for the Hospital to manage the patient records especially when there is a rush.
+
 Weakness
 *   Need to be updated from time to time.
-# Opportunities
+
+Opportunities
    The details can be updated quickly.
    Better than traditional way of storing and managing patient records.
+
 Threats
 *   Less secure as anyone can use the software.
 *   Compromising the software might lead to loss of data.
@@ -28,4 +32,4 @@ Threats
    Any employee of the hospital may access the details of the patient.
    The details can also be deleted when patient is no longer suffering from his problems.
 # Low level Requirements
-   If the details are added successfully, it asks if you want to add more details or not
+   If the details are added successfully, it asks if you want to add more details or not.
