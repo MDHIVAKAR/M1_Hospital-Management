@@ -1,5 +1,5 @@
 # Features
-  *   Add Patient Records
+   Add Patient Records
   *   View Patient Records
   *   Search Patient Records
   *   Edit Patient Records
