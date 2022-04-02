@@ -1,9 +1,9 @@
 # Features
-*  Add Patient Records
-*  View Patient Records
-*  Search Patient Records
-*  Edit Patient Records
-*  Delete Patient Records
+  *  Add Patient Records
+  *  View Patient Records
+  *  Search Patient Records
+  *  Edit Patient Records
+  *  Delete Patient Records
 # State of art/Research
    Designing and implementing of Hospital Management System software using basic programming.
 # 4W'S and 1-H
