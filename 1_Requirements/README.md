@@ -6,12 +6,14 @@
 *   Delete Patient Records
 # State of art/Research
    Designing and implementing of Hospital Management System software using basic programming.
+   
 # 4W'S and 1-H
 *   What- This is a software used to manage records of patients in a hospital.
 *   Why- This is helpful in managing the patient records and saves time for the staff.
 *   Where- It can be used in any hospital small or large.
 *   When- It can be used as long as the user have a good working system and continuous power supply.
 *   How- It is composed of a very simple and guiding interface that allows the user to understand and make the best use of the software.
+
 # swot analysis
 
 Strength
