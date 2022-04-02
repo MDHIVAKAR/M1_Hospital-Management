@@ -20,7 +20,6 @@ int main()
     read();
     int c,i,q;
     printf("Hospital Management System\n");
-    int m,n;
     while(c!=6)
     {
         printf("**Enter your choice**\n\n1. Add Information\n2. View Information\n3. Search\n4. Edit Information\n5. Delete Information\n6. Exit\n\nOption=");
