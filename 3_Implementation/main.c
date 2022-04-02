@@ -46,7 +46,7 @@ int main()
             del();
         }
         else if(c==6){
-            write();
+            
             return 0;
         }
         else{
@@ -338,7 +338,7 @@ void read()
         fp = fopen("patient.txt","w");
         fclose(fp);
         printf("File does not exist, I JUST CREATED IT, exiting...\n\n\n");
-        return 0;
+        
     }
 
     num = fread(x, sizeof(struct ad),100, fp);
