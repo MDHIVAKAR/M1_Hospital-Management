@@ -22,8 +22,8 @@ Weakness
 *   Need to be updated from time to time.
 
 Opportunities
-   The details can be updated quickly.
-   Better than traditional way of storing and managing patient records.
+*   The details can be updated quickly.
+*   Better than traditional way of storing and managing patient records.
 
 Threats
 *   Less secure as anyone can use the software.
