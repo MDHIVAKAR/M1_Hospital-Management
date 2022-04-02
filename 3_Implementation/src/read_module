@@ -1,0 +1,14 @@
+void read()
+{
+    FILE *fp = fopen("patient.txt","r");
+    if(fp == NULL)
+    {
+        fp = fopen("patient.txt","w");
+        fclose(fp);
+        printf("File does not exist, I JUST CREATED IT, exiting...\n\n\n");
+        return 0;
+    }
+
+    num = fread(x, sizeof(struct ad),100, fp);
+    fclose(fp);
+}
