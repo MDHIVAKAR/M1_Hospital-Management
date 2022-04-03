@@ -18,8 +18,8 @@ void show();
 int main()
 {
     read();
-    int c;
     printf("Hospital Management System\n");
+    int c;
     while(c!=6)
     {
         printf("**Enter your choice**\n\n1. Add Information\n2. View Information\n3. Search\n4. Edit Information\n5. Delete Information\n6. Exit\n\nOption=");
@@ -342,7 +342,7 @@ void read()
     }
 
     num = fread(x, sizeof(struct ad),100, fp);
-    fclose(fp);
+   
 }
 void write()
 {
