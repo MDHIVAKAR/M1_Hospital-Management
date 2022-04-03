@@ -11,4 +11,4 @@ GIT CODIGA
 
 *   Codiga - Static Analysis ![codiga Badge](https://api.codiga.io/project/32330/score/svg)
 
-CPP CHECK -[![Cpp-Check](https://github.com/MDHIVAKAR/M1_Hospital-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MDHIVAKAR/M1_Hospital-Management/actions/workflows/c-cpp.yml)
+*   CPP CHECK -[![Cpp-Check](https://github.com/MDHIVAKAR/M1_Hospital-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MDHIVAKAR/M1_Hospital-Management/actions/workflows/c-cpp.yml)
